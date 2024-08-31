@@ -1,0 +1,181 @@
+{
+    "name": "Bluesona Doggy",
+    "description": "Art by bluethebone",
+    "authors": [
+        {
+            "name": "Silvy",
+            "id": "1135310796059070515"
+        }
+    ],
+    "plus": {
+       "version": 0,
+       "mentionLineColor": "#6BA96A", 
+       "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#D6C58B" 
+        ],
+        "HEADER_SECONDARY": [
+            "#D6C58B"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF" 
+        ],
+        "TEXT_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#6BA96A" 
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#D6C58B" 
+        ],
+        "INTERACTIVE_HOVER": [
+            "#D6C58B"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#A08C56" 
+        ],
+        "INTERACTIVE_MUTED": [
+            "#D6C58B"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#3B3026" 
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#3B3026"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3B3026"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#3B3026"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#3B3026"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#3B3026"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#3B3026"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#3B3026"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#A08C56" 
+        ],
+        "BACKGROUND_MENTIONED": [ 
+            "rgba(107, 169, 106, 0.4)" 
+       ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#A08C56" 
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#4A4132" // Slightly lighter brown
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#4A4132"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4A4132"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#5A4E3C"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#D6C58B" 
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#D6C58B" 
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#A08C56" 
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#D6C58B" 
+        ],
+        "CHANNELS_DEFAULT": [
+            "#6BA96A" 
+        ],
+        "TEXT_LINK": [
+            "#A08C56"
+        ],
+        "TEXT_DANGER": [
+            "#D6C58B"
+        ],
+        "KEYBOARD": [
+            "#3B3026"
+        ],
+        "CHANNEL_ICON": [
+            "#A08C56"
+        ],
+        "CHAT_BACKGROUND": [
+            "#4A4132" 
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#3B3026"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#4A4132"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#5A4E3C"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#4A4132"
+        ],
+        "BG_BACKDROP": [
+            "04010173"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#D6C58B",
+        "PRIMARY_100": "#D6C58B",
+        "PRIMARY_200": "#A08C56",
+        "PRIMARY_230": "#FFFFFF",
+        "PRIMARY_300": "#D6C58B",
+        "PRIMARY_360": "#A08C56",
+        "PRIMARY_400": "#D6C58B",
+        "PRIMARY_600": "#4A4132",
+        "PRIMARY_630": "#3B3026",
+        "PRIMARY_645": "#4A4132",
+        "PRIMARY_660": "#4A4132",
+        "PRIMARY_700": "#4A4132",
+        "PRIMARY_800": "#3B3026",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_3": "#6BA96A",
+        "PLUM_6": "#6BA96A",
+        "PLUM_9": "#FFFFFF",
+        "PLUM_10": "#A4A4A4",
+        "PLUM_11": "#3B3026",
+        "PLUM_13": "#A08C56",
+        "PLUM_17": "#3B3026",
+        "PLUM_18": "#3B3026",
+        "PLUM_19": "#3B3026",
+        "PLUM_20": "#3B3026",
+        "PLUM_22": "#3B3026",
+        "PLUM_24": "#3B3026",
+        "BRAND_260": "#A08C56",
+        "BRAND_360": "#A08C56",
+        "BRAND_500": "#6BA96A",
+        "BRAND_560": "#6BA96A",
+        "YELLOW_300": "#D6C58B",
+        "YELLOW_260": "#D6C58B",
+        "GREEN_600": "#4A4132",
+        "GREEN_360": "#6BA96A",
+        "RED_400": "#B08C56",
+        "WHITE_500": "#FFFFFF"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://media.discordapp.net/attachments/1279527650410496071/1279534179046129755/Bluesona_Doggy_Clothed_3.gif?ex=66d4ca90&is=66d37910&hm=f51aea4f79f691e774e00864327dd323755f18a7899d03a1f3f2bc7a3c52af56&=&width=511&height=681",
+        "alpha": 0.7
+    },
+    "color": "#EA42CD"
+}
