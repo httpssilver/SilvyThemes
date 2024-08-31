@@ -68,7 +68,7 @@
             "#F283C2" 
         ],
         "BACKGROUND_MENTIONED": [ 
-            "rgba(242, 160, 235, 0.4)" // Light pink background for mentions
+            "rgba(242, 160, 235, 0.4)" 
        ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#F283C2" 
