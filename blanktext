@@ -175,8 +175,8 @@
     },
     
     "background": {
-        "blur": 0.5,
-        "url": "https://media.discordapp.net/attachments/1279490134609494109/1279490301576351744/IMG_3468.jpg?ex=66d4a1b3&is=66d35033&hm=df674ca6ec4a109d1989b1547b78623d375b4c49cc875a08cad830ed9f6fa12c&=&format=webp&width=511&height=681",
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/httpssilver/SilvyThemes/main/IMG_3468.webp?token=GHSAT0AAAAAACT5XH423JILNGJNYWUMAHBGZWTKGVA",
         "alpha": 0.7
     },
         "color": "#EA42CD"
