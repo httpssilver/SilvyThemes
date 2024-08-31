@@ -2,182 +2,180 @@
     "name": "BurgerMom",
     "description": "Art by bluethebone",
     "authors": [
-
         {
             "name": "Silvy",
             "id": "1135310796059070515"
         }
     ],
     "plus": {
-       "version": 0,
-       "mentionLineColor": "#6786CA",
-       "iconpack": "rosiecord-plumpy"
-  },
+        "version": 0,
+        "mentionLineColor": "#FFA07A",  // Light orange
+        "iconpack": "rosiecord-plumpy"
+    },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "HEADER_SECONDARY": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#ffffff"  // White
         ],
         "TEXT_PRIMARY": [
-            "#ffffff"
+            "#ffffff"  // White
         ],
         "TEXT_MUTED": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "INTERACTIVE_NORMAL": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "INTERACTIVE_HOVER": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "INTERACTIVE_ACTIVE": [
-            "#F2A0EB"
+            "#FFD700"  // Gold (for better contrast)
         ],
         "INTERACTIVE_MUTED": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#F2A0EB"
+            "#FFA07A"  // Light orange
         ],
         "BACKGROUND_MENTIONED": [ 
-            "rgba(103, 134, 202, 0.4)"
-       ],
+            "rgba(255, 160, 122, 0.4)"  // Light orange with transparency
+        ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#F2A0EB"
+            "#FFA07A"  // Light orange
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#141414"
+            "#FFDAB9"  // Peach puff (for better contrast)
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#141414"
+            "#FFDAB9"  // Peach puff
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#141414"
+            "#FFDAB9"  // Peach puff
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222222"
+            "#FFE4B5"  // Moccasin (for better contrast)
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#1ced20"
+            "#FFA07A"  // Light orange
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#1ced20"
+            "#FFA07A"  // Light orange
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1ced20"
+            "#FFD700"  // Gold
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#1ced20"
+            "#FFA07A"  // Light orange
         ],
         "CHANNELS_DEFAULT": [
-            "#5289D6"
+            "#FFA07A"  // Light orange
         ],
         "TEXT_LINK": [
-            "#F2A0EB"
+            "#FFA07A"  // Light orange
         ],
         "TEXT_DANGER": [
-            "#F2A0EB"
+            "#FF4500"  // Orange red (for emphasis)
         ],
         "KEYBOARD": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "CHANNEL_ICON": [
-            "#F2A0EB"
+            "#FFA07A"  // Light orange
         ],
         "CHAT_BACKGROUND": [
-            "#141414"
+            "#FFDAB9"  // Peach puff
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#000000"
+            "#ffffff"  // White
         ],
         "CARD_PRIMARY_BG": [
-            "#141414"
+            "#FFDAB9"  // Peach puff
         ],
         "CARD_SECONDARY_BG": [
-            "#222222"
+            "#FFE4B5"  // Moccasin
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#141414"
+            "#FFDAB9"  // Peach puff
         ],
         "BG_BACKDROP": [
-            "04010173"
+            "rgba(255, 245, 238, 0.45)"  // Seashell with transparency
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#5289D6",
-        "PRIMARY_100": "#5289D6",
-        "PRIMARY_200": "#F2A0EB",
-        "PRIMARY_230": "#ffffff",
-        "PRIMARY_300": "#5289D6",
-        "PRIMARY_360": "#F2A0EB",
-        "PRIMARY_400": "#5289D6",
-        "PRIMARY_600": "#141414",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_645": "#141414",
-        "PRIMARY_660": "#141414",
-        "PRIMARY_700": "#141414",
-        "PRIMARY_800": "#000000",
-        "PLUM_1": "#ffffff",
-        "PLUM_3": "#6786CA",
-        "PLUM_6": "#6786CA",
-        "PLUM_9": "#ffffff",
-        "PLUM_10": "#A4A4A4",
-        "PLUM_11": "#000000",
-        "PLUM_13": "#4C6396",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#000000",
-        "PLUM_19": "#000000",
-        "PLUM_20": "#000000",
-        "PLUM_22": "#000000",
-        "PLUM_24": "#000000",
-        "BRAND_260": "#F2A0EB",
-        "BRAND_360": "#F2A0EB",
-        "BRAND_500": "#5289D6",
-        "BRAND_560": "#5289D6",
-        "YELLOW_300": "#6786CA",
-        "YELLOW_260": "#6786CA",
-        "GREEN_600": "#141414",
-        "GREEN_360": "#5289D6",
-        "RED_400": "#b00b69",
-        "WHITE_500": "#f9f1f1"
+        "PRIMARY_500": "#FFA07A",  // Light orange
+        "PRIMARY_100": "#FFA07A",  // Light orange
+        "PRIMARY_200": "#FFD700",  // Gold
+        "PRIMARY_230": "#ffffff",  // White
+        "PRIMARY_300": "#FFA07A",  // Light orange
+        "PRIMARY_360": "#FFD700",  // Gold
+        "PRIMARY_400": "#FFA07A",  // Light orange
+        "PRIMARY_600": "#FFDAB9",  // Peach puff
+        "PRIMARY_630": "#ffffff",  // White
+        "PRIMARY_645": "#FFDAB9",  // Peach puff
+        "PRIMARY_660": "#FFDAB9",  // Peach puff
+        "PRIMARY_700": "#FFDAB9",  // Peach puff
+        "PRIMARY_800": "#ffffff",  // White
+        "PLUM_1": "#ffffff",  // White
+        "PLUM_3": "#FFA07A",  // Light orange
+        "PLUM_6": "#FFA07A",  // Light orange
+        "PLUM_9": "#ffffff",  // White
+        "PLUM_10": "#A4A4A4",  // Gray
+        "PLUM_11": "#ffffff",  // White
+        "PLUM_13": "#FFDAB9",  // Peach puff
+        "PLUM_17": "#ffffff",  // White
+        "PLUM_18": "#ffffff",  // White
+        "PLUM_19": "#ffffff",  // White
+        "PLUM_20": "#ffffff",  // White
+        "PLUM_22": "#ffffff",  // White
+        "PLUM_24": "#ffffff",  // White
+        "BRAND_260": "#FFD700",  // Gold
+        "BRAND_360": "#FFD700",  // Gold
+        "BRAND_500": "#FFA07A",  // Light orange
+        "BRAND_560": "#FFA07A",  // Light orange
+        "YELLOW_300": "#FFA07A",  // Light orange
+        "YELLOW_260": "#FFA07A",  // Light orange
+        "GREEN_600": "#FFDAB9",  // Peach puff
+        "GREEN_360": "#FFA07A",  // Light orange
+        "RED_400": "#FF4500",  // Orange red
+        "WHITE_500": "#ffffff"  // White
     },
-    
     "background": {
         "blur": 0,
-        "url": "https://raw.githubusercontent.com/httpssilver/SilvyThemes/main/IMG_3468.webp?token=GHSAT0AAAAAACT5XH423JILNGJNYWUMAHBGZWTKGVA",
+        "url": "https://media.discordapp.net/attachments/1279527650410496071/1279527720094797914/BurgerMom.jpg?ex=66d4c48c&is=66d3730c&hm=be2f3be56cff219c2732bba51692c5bd02e686fc1423b71c0a4aed7dac011205&=&format=webp",
         "alpha": 0.7
     },
-        "color": "#EA42CD"
+    "color": "#FFA07A"  // Light orange
 }
