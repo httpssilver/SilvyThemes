@@ -9,173 +9,173 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#F47C9D",  // Pink
+        "mentionLineColor": "#F47C9D",
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#F47C9D"  // Pink
+            "#F47C9D"
         ],
         "HEADER_SECONDARY": [
-            "#F47C9D"  // Pink
+            "#F47C9D"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"  // White
+            "#ffffff"
         ],
         "TEXT_PRIMARY": [
-            "#ffffff"  // White
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#F47C9D"  // Pink
+            "#F47C9D"
         ],
         "INTERACTIVE_NORMAL": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF69B4"  // Hot Pink
+            "#FF69B4"
         ],
         "INTERACTIVE_MUTED": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"  // Black
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FF69B4"  // Hot Pink
+            "#FF69B4"
         ],
         "BACKGROUND_MENTIONED": [ 
-            "rgba(244, 124, 157, 0.4)"  // Pink with transparency
+            "rgba(244, 124, 157, 0.4)"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FF69B4"  // Hot Pink
+            "#FF69B4"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222222"  // Darker Gray
+            "#222222"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#00BFFF"  // Deep Sky Blue
+            "#00BFFF"
         ],
         "CHANNELS_DEFAULT": [
-            "#F47C9D"  // Pink
+            "#F47C9D"
         ],
         "TEXT_LINK": [
-            "#FF69B4"  // Hot Pink
+            "#FF69B4"
         ],
         "TEXT_DANGER": [
-            "#FF69B4"  // Hot Pink
+            "#FF69B4"
         ],
         "KEYBOARD": [
-            "#000000"  // Black
+            "#000000"
         ],
         "CHANNEL_ICON": [
-            "#F47C9D"  // Pink
+            "#F47C9D"
         ],
         "CHAT_BACKGROUND": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#000000"  // Black
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "CARD_SECONDARY_BG": [
-            "#222222"  // Darker Gray
+            "#222222"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#141414"  // Dark Gray
+            "#141414"
         ],
         "BG_BACKDROP": [
-            "rgba(20, 20, 20, 0.45)"  // Transparent Dark Gray
+            "rgba(20, 20, 20, 0.45)"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#F47C9D",  // Pink
-        "PRIMARY_100": "#F47C9D",  // Pink
-        "PRIMARY_200": "#FF69B4",  // Hot Pink
-        "PRIMARY_230": "#ffffff",  // White
-        "PRIMARY_300": "#F47C9D",  // Pink
-        "PRIMARY_360": "#FF69B4",  // Hot Pink
-        "PRIMARY_400": "#F47C9D",  // Pink
-        "PRIMARY_600": "#141414",  // Dark Gray
-        "PRIMARY_630": "#000000",  // Black
-        "PRIMARY_645": "#141414",  // Dark Gray
-        "PRIMARY_660": "#141414",  // Dark Gray
-        "PRIMARY_700": "#141414",  // Dark Gray
-        "PRIMARY_800": "#000000",  // Black
-        "PLUM_1": "#ffffff",  // White
-        "PLUM_3": "#F47C9D",  // Pink
-        "PLUM_6": "#F47C9D",  // Pink
-        "PLUM_9": "#ffffff",  // White
-        "PLUM_10": "#A4A4A4",  // Gray
-        "PLUM_11": "#000000",  // Black
-        "PLUM_13": "#00BFFF",  // Deep Sky Blue
-        "PLUM_17": "#000000",  // Black
-        "PLUM_18": "#000000",  // Black
-        "PLUM_19": "#000000",  // Black
-        "PLUM_20": "#000000",  // Black
-        "PLUM_22": "#000000",  // Black
-        "PLUM_24": "#000000",  // Black
-        "BRAND_260": "#FF69B4",  // Hot Pink
-        "BRAND_360": "#FF69B4",  // Hot Pink
-        "BRAND_500": "#F47C9D",  // Pink
-        "BRAND_560": "#F47C9D",  // Pink
-        "YELLOW_300": "#F47C9D",  // Pink
-        "YELLOW_260": "#F47C9D",  // Pink
-        "GREEN_600": "#141414",  // Dark Gray
-        "GREEN_360": "#F47C9D",  // Pink
-        "RED_400": "#FF4500",  // Orange red
-        "WHITE_500": "#ffffff"  // White
+        "PRIMARY_500": "#F47C9D",
+        "PRIMARY_100": "#F47C9D",
+        "PRIMARY_200": "#FF69B4",
+        "PRIMARY_230": "#ffffff",
+        "PRIMARY_300": "#F47C9D",
+        "PRIMARY_360": "#FF69B4",
+        "PRIMARY_400": "#F47C9D",
+        "PRIMARY_600": "#141414",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_645": "#141414",
+        "PRIMARY_660": "#141414",
+        "PRIMARY_700": "#141414",
+        "PRIMARY_800": "#000000",
+        "PLUM_1": "#ffffff",
+        "PLUM_3": "#F47C9D",
+        "PLUM_6": "#F47C9D",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#A4A4A4",
+        "PLUM_11": "#000000",
+        "PLUM_13": "#00BFFF",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_24": "#000000",
+        "BRAND_260": "#FF69B4",
+        "BRAND_360": "#FF69B4",
+        "BRAND_500": "#F47C9D",
+        "BRAND_560": "#F47C9D",
+        "YELLOW_300": "#F47C9D",
+        "YELLOW_260": "#F47C9D",
+        "GREEN_600": "#141414",
+        "GREEN_360": "#F47C9D",
+        "RED_400": "#FF4500",
+        "WHITE_500": "#ffffff"
     },
     "background": {
         "blur": 0,
         "url": "https://media.discordapp.net/attachments/1279527650410496071/1279527663073099848/Ruroro_ForplayEx.png?ex=66d4c47f&is=66d372ff&hm=d5b71df928fc62ba638297e5e3748855272ce09f6ac8d6e1437fc683c4754142&=&format=webp&quality=lossless&width=511&height=681",
         "alpha": 0.7
     },
-    "color": "#FF69B4"  // Hot Pink
+    "color": "#FF69B4"
 }
