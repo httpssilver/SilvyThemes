@@ -1,0 +1,181 @@
+{
+    "name": "Rainbow Mika",
+    "description": "Art by bluethebone",
+    "authors": [
+        {
+            "name": "Silvy",
+            "id": "YourID"
+        }
+    ],
+    "plus": {
+       "version": 0,
+       "mentionLineColor": "#4B79A1",
+       "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#4B79A1"
+        ],
+        "HEADER_SECONDARY": [
+            "#4B79A1"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#A8D3E7"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#4B79A1"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#D95B8A"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D95B8A"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4B79A1"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#121212"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4B79A1"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#121212"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#121212"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#D95B8A"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(75, 121, 161, 0.4)"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#D95B8A"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1A1A1A"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1A1A1A"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#D95B8A"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#D95B8A"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#D95B8A"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#D95B8A"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#4B79A1"
+        ],
+        "TEXT_LINK": [
+            "#A8D3E7"
+        ],
+        "TEXT_DANGER": [
+            "#D95B8A"
+        ],
+        "KEYBOARD": [
+            "#121212"
+        ],
+        "CHANNEL_ICON": [
+            "#D95B8A"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1A1A1A"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#121212"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#1A1A1A"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#1A1A1A"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#121212"
+        ],
+        "BG_BACKDROP": [
+            "rgba(75, 121, 161, 0.4)"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#4B79A1",
+        "PRIMARY_100": "#4B79A1",
+        "PRIMARY_200": "#D95B8A",
+        "PRIMARY_230": "#FFFFFF",
+        "PRIMARY_300": "#4B79A1",
+        "PRIMARY_360": "#D95B8A",
+        "PRIMARY_400": "#4B79A1",
+        "PRIMARY_600": "#1A1A1A",
+        "PRIMARY_630": "#121212",
+        "PRIMARY_645": "#1A1A1A",
+        "PRIMARY_660": "#1A1A1A",
+        "PRIMARY_700": "#1A1A1A",
+        "PRIMARY_800": "#121212",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_3": "#4B79A1",
+        "PLUM_6": "#4B79A1",
+        "PLUM_9": "#FFFFFF",
+        "PLUM_10": "#A8D3E7",
+        "PLUM_11": "#121212",
+        "PLUM_13": "#4B79A1",
+        "PLUM_17": "#121212",
+        "PLUM_18": "#121212",
+        "PLUM_19": "#121212",
+        "PLUM_20": "#121212",
+        "PLUM_22": "#121212",
+        "PLUM_24": "#121212",
+        "BRAND_260": "#D95B8A",
+        "BRAND_360": "#D95B8A",
+        "BRAND_500": "#4B79A1",
+        "BRAND_560": "#4B79A1",
+        "YELLOW_300": "#4B79A1",
+        "YELLOW_260": "#4B79A1",
+        "GREEN_600": "#1A1A1A",
+        "GREEN_360": "#4B79A1",
+        "RED_400": "#b00b69",
+        "WHITE_500": "#f9f1f1"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://media.discordapp.net/attachments/1279527650410496071/1279616297273004113/IMG_3481.gif?ex=66d5170b&is=66d3c58b&hm=85f2f346ebde4f2b107b73f690ca5adedcbd942e33e70376013df07829e21048&",
+        "alpha": 0.7
+    },
+    "color": "#D95B8A"
+}
