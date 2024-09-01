@@ -1,5 +1,5 @@
 {
-    "name": "yoimiya",
+    "name": "yoimiya2",
     "description": "Art by waterring",
     "authors": [
         {
@@ -29,70 +29,70 @@
             "#000000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#fe8153"
+            "#ec905d"
         ],
         "INTERACTIVE_HOVER": [
-            "#bf5d53"
+            "#d18161"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffece5"
+            "#fbe7dc"
         ],
         "INTERACTIVE_MUTED": [
             "#fefdfd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_SECONDARY": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_TERTIARY": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_ACCENT": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_FLOATING": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MENTIONED": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#feffff"
+            "#fefefe"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#ffffff"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#e0b1ab"
+            "#dfb0aa"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#e03939"
+            "#e8905f"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#000000"
@@ -107,71 +107,71 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#dfaea9"
+            "#efd3c8"
         ],
         "CHANNEL_ICON": [
             "#000000"
         ],
         "CHAT_BACKGROUND": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "CARD_PRIMARY_BG": [
-            "#f82043"
+            "#bf5d53"
         ],
         "CARD_SECONDARY_BG": [
-            "#feeae3"
+            "#d6b1a9"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#ffede6"
+            "#edcfc5"
         ],
         "BG_BACKDROP": [
-            "#feeae3"
+            "#d6b1a9"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#ffede6",
-        "PRIMARY_100": "#dfaea9",
-        "PRIMARY_200": "#fe8454",
-        "PRIMARY_230": "#feffff",
-        "PRIMARY_300": "#f1a3a3",
+        "PRIMARY_500": "#edcfc5",
+        "PRIMARY_100": "#efd3c8",
+        "PRIMARY_200": "#ce7c61",
+        "PRIMARY_230": "#fefefe",
+        "PRIMARY_300": "#fae6db",
         "PRIMARY_360": "#ffffff",
-        "PRIMARY_400": "#ffece5",
-        "PRIMARY_600": "#ce7c61",
-        "PRIMARY_630": "#ce7c61",
-        "PRIMARY_645": "#e03939",
-        "PRIMARY_660": "#ffffff",
+        "PRIMARY_400": "#fbe7dc",
+        "PRIMARY_600": "#cf7c61",
+        "PRIMARY_630": "#cf7c61",
+        "PRIMARY_645": "#e8905f",
+        "PRIMARY_660": "#fbf7f6",
         "PRIMARY_700": "#ffffff",
-        "PRIMARY_800": "#ffede6",
-        "PLUM_1": "#cc7c61",
-        "PLUM_3": "#ffede6",
+        "PRIMARY_800": "#edcfc5",
+        "PLUM_1": "#cf8162",
+        "PLUM_3": "#edcfc5",
         "PLUM_6": "#ffffff",
-        "PLUM_9": "#e03939",
-        "PLUM_10": "#ffede6",
-        "PLUM_11": "#fe8454",
-        "PLUM_13": "#e03939",
-        "PLUM_17": "#fefefe",
-        "PLUM_18": "#ce7c61",
+        "PLUM_9": "#e8905f",
+        "PLUM_10": "#edcfc5",
+        "PLUM_11": "#ce7c61",
+        "PLUM_13": "#e8905f",
+        "PLUM_17": "#feffff",
+        "PLUM_18": "#cf7c61",
         "PLUM_19": "#ffffff",
-        "PLUM_20": "#cc7c61",
-        "PLUM_22": "#eccec4",
-        "PLUM_24": "#eccec4",
-        "BRAND_260": "#c06054",
-        "BRAND_360": "#f98157",
-        "BRAND_500": "#ffede6",
-        "BRAND_560": "#ce7c61",
-        "YELLOW_300": "#ffede6",
+        "PLUM_20": "#cf8162",
+        "PLUM_22": "#eed2c7",
+        "PLUM_24": "#eed2c7",
+        "BRAND_260": "#be6054",
+        "BRAND_360": "#b06a5b",
+        "BRAND_500": "#edcfc5",
+        "BRAND_560": "#cf7c61",
+        "YELLOW_300": "#edcfc5",
         "YELLOW_260": "#bd6054",
-        "GREEN_600": "#ce7c61",
+        "GREEN_600": "#cf7c61",
         "GREEN_360": "#ffffff",
         "RED_400": "#ffffff",
         "WHITE_500": "#fefdfd"
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1279935224838361118/image.png?ex=66d64011&is=66d4ee91&hm=3443d1a429cdaca5ce192b07a50af8e15bb61f3805eb9e482e3d66eef6215e8c&",
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1279935340865654795/image.png?ex=66d6402d&is=66d4eead&hm=a512edb78d5dad453f8f5f7c4d4a39a2d5b8ab5438e48c2327f2cd4b7878c87e&",
         "alpha": 0.7
     },
     "color": "#FFB6C1",
