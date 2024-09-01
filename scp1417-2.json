@@ -1,0 +1,178 @@
+{
+    "name": "scp1417-2",
+    "description": "Art by whisperingfornothing",
+    "authors": [
+        {
+            "name": "Silvy",
+            "id": "1135310796059070515"
+        }
+    ],
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#FFB6C1",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffffff"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#544744"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#584b48"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#28201e"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#362c2a"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#433937"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#433937"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#433937"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#433937"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#433937"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#433937"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#433937"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#433937"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#433937"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#433937"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#433937"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#433937"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#433937"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#433937"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#403634"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#29211f"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#413735"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#2c2524"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#ffffff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff"
+        ],
+        "TEXT_LINK": [
+            "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#ffffff"
+        ],
+        "KEYBOARD": [
+            "#251e1d"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#433937"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#433937"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#362c2a"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2b2321"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#433937"
+        ],
+        "BG_BACKDROP": [
+            "#3f3533"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#463936",
+        "PRIMARY_100": "#2e2726",
+        "PRIMARY_200": "#514442",
+        "PRIMARY_230": "#574a47",
+        "PRIMARY_300": "#443a38",
+        "PRIMARY_360": "#433937",
+        "PRIMARY_400": "#2c2524",
+        "PRIMARY_600": "#584b48",
+        "PRIMARY_630": "#28201e",
+        "PRIMARY_645": "#342927",
+        "PRIMARY_660": "#443a38",
+        "PRIMARY_700": "#2c2524",
+        "PRIMARY_800": "#251e1d",
+        "PLUM_1": "#372d2a",
+        "PLUM_3": "#413735",
+        "PLUM_6": "#3f3533",
+        "PLUM_9": "#342927",
+        "PLUM_10": "#362c2a",
+        "PLUM_11": "#2c2524",
+        "PLUM_13": "#3f3533",
+        "PLUM_17": "#372d2a",
+        "PLUM_18": "#2d2625",
+        "PLUM_19": "#1c1715",
+        "PLUM_20": "#352a28",
+        "PLUM_22": "#2c2524",
+        "PLUM_24": "#504341",
+        "BRAND_260": "#2d2625",
+        "BRAND_360": "#514442",
+        "BRAND_500": "#372d2a",
+        "BRAND_560": "#433937",
+        "YELLOW_300": "#433937",
+        "YELLOW_260": "#251e1d",
+        "GREEN_600": "#251e1d",
+        "GREEN_360": "#362c2a",
+        "RED_400": "#504341",
+        "WHITE_500": "#342927"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1279934615964090399/image.png?ex=66d63f80&is=66d4ee00&hm=065f0c9cf342b772ba39171c4f1eb6f3d4ff7e1afaa5313a8b2b6903135fbee4&",
+        "alpha": 0.7
+    },
+    "color": "#FFB6C1"
+}
