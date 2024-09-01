@@ -1,0 +1,180 @@
+{
+    "name": "Arlecchino",
+    "description": "Art by waterring",
+    "authors": [
+        {
+            "name": "Silvy",
+            "id": "1135310796059070515"
+        }
+    ],
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#FFB6C1",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#5a7d84"
+        ],
+        "HEADER_SECONDARY": [
+            "#efcdc4"
+        ],
+        "TEXT_NORMAL": [
+            "#a14b56"
+        ],
+        "TEXT_PRIMARY": [
+            "#bd7b76"
+        ],
+        "TEXT_MUTED": [
+            "#80aca8"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#897a4b"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#493135"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ca868e"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#f9ede5"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#E0A7B2"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#FFC2CC"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#FFC2CC"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#C68595"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FFB6C1"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#C68595"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#FFC2CC"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#C68595"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#E0A7B2"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(255, 182, 193, 0.4)"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#FFC2CC"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#E0A7B2"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#C68595"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#E0A7B2"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#E0A7B2"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#E0A7B2"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#E0A7B2"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#E0A7B2"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FFB6C1"
+        ],
+        "TEXT_LINK": [
+            "#FF99AA"
+        ],
+        "TEXT_DANGER": [
+            "#E0A7B2"
+        ],
+        "KEYBOARD": [
+            "#C68595"
+        ],
+        "CHANNEL_ICON": [
+            "#E0A7B2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#E0A7B2"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#C68595"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#E0A7B2"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#FFC2CC"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#C68595"
+        ],
+        "BG_BACKDROP": [
+            "rgba(255, 182, 193, 0.4)"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#FFB6C1",
+        "PRIMARY_100": "#FFB6C1",
+        "PRIMARY_200": "#E0A7B2",
+        "PRIMARY_230": "#FFF5F7",
+        "PRIMARY_300": "#FFB6C1",
+        "PRIMARY_360": "#E0A7B2",
+        "PRIMARY_400": "#FFB6C1",
+        "PRIMARY_600": "#C68595",
+        "PRIMARY_630": "#C68595",
+        "PRIMARY_645": "#E0A7B2",
+        "PRIMARY_660": "#E0A7B2",
+        "PRIMARY_700": "#C68595",
+        "PRIMARY_800": "#C68595",
+        "PLUM_1": "#FFF5F7",
+        "PLUM_3": "#FFB6C1",
+        "PLUM_6": "#FFB6C1",
+        "PLUM_9": "#FFF5F7",
+        "PLUM_10": "#FF99AA",
+        "PLUM_11": "#C68595",
+        "PLUM_13": "#FFB6C1",
+        "PLUM_17": "#C68595",
+        "PLUM_18": "#C68595",
+        "PLUM_19": "#C68595",
+        "PLUM_20": "#C68595",
+        "PLUM_22": "#C68595",
+        "PLUM_24": "#C68595",
+        "BRAND_260": "#E0A7B2",
+        "BRAND_360": "#E0A7B2",
+        "BRAND_500": "#FFB6C1",
+        "BRAND_560": "#FFB6C1",
+        "YELLOW_300": "#FFB6C1",
+        "YELLOW_260": "#FFB6C1",
+        "GREEN_600": "#C68595",
+        "GREEN_360": "#FFB6C1",
+        "RED_400": "#E0A7B2",
+        "WHITE_500": "#FFF5F7"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://media.discordapp.net/attachments/1279786136323096586/1279842470829621248/2405_1_6_1.jpg?ex=66d5e9af&is=66d4982f&hm=8f98f20a70ee1c2dbcfa96a8db9aa87aaec32d65055754841c9598d3983eec48&=&format=webp&width=511&height=681",
+        "alpha": 0.7
+    },
+    "color": "#FFB6C1",
+    "artist": "waterring",
+    "parent": "lanmewko"
+}
