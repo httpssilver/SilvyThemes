@@ -255,7 +255,7 @@
     "background": {
         "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280229859519627377/image.png?ex=66d75278&is=66d600f8&hm=1e6a971f8e84b3d12ed7dcf986bafbddb5c1af804abc437c5768d8df9383c3f5&",
-        "alpha": 0.7
+        "alpha": 0.5
     },
     "color": "#dc758c"
 }
