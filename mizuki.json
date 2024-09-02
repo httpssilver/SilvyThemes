@@ -1,0 +1,262 @@
+{
+    "name": "mizuki",
+    "description": "Art by waterring",
+    "authors": [
+        {
+            "name": "Silvy",
+            "id": "1135310796059070515"
+        }
+    ],
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#dc758c",
+        "iconpack": "rosiecord-plumpy"
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#6a6770"
+        ],
+        "HEADER_SECONDARY": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "TEXT_NORMAL": [
+            "#a44452"
+        ],
+        "TEXT_PRIMARY": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "TEXT_MUTED": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#96b6c6"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#c7c7d5"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "TEXT_LINK": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "TEXT_DANGER": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "KEYBOARD": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CHANNEL_ICON": [
+            "#f4ead2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "BG_BACKDROP": [
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CHANNEL_ICON_ACTIVE": [
+            "#aaaa00"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#6d6b7a",
+        "PRIMARY_100": "#dc758c",
+        "PRIMARY_200": "#5b5361",
+        "PRIMARY_230": "#fbf4f8",
+        "PRIMARY_300": "#877f90",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#d4d4e6",
+        "PRIMARY_600": "#5b5361",
+        "PRIMARY_630": "#e1cdd9",
+        "PRIMARY_645": "#ef7e9d",
+        "PRIMARY_660": "#d49baf",
+        "PRIMARY_700": "#ffffff",
+        "PRIMARY_800": "#ffffff",
+        "PLUM_1": "#a3a6df",
+        "PLUM_3": "#dc758c",
+        "PLUM_6": "#fbf4f8",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#345ff9",
+        "PLUM_11": "#d49baf",
+        "PLUM_13": "#7e6e7e",
+        "PLUM_17": "#ffffff",
+        "PLUM_18": "#ffffff",
+        "PLUM_19": "#dc758c",
+        "PLUM_20": "#f3d1de",
+        "PLUM_22": "#7e6e7e",
+        "PLUM_24": "#a3a6df",
+        "BRAND_260": "#dc758c",
+        "BRAND_360": "#fbf4f8",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
+        "YELLOW_300": "#6d6b7a",
+        "YELLOW_260": "#ffffff",
+        "GREEN_600": "#345ff9",
+        "GREEN_360": "#dc758c",
+        "RED_400": "#877f90",
+        "WHITE_500": "#5b5361",
+        "BACKGROUND_PRIMARY": "#96b6c6",
+        "BACKGROUND_SECONDARY": "#c7c7d5",
+        "HEADER_PRIMARY": "#6a6770",
+        "TEXT_NORMAL": "#a44452",
+        "CHANNEL_ICON": "#f4ead2",
+        "CHANNEL_ICON_ACTIVE": "#aaaa00",
+        "PRIMARY_DARK": "#121010",
+        "PRIMARY_DARK_100": "#5b4b4d",
+        "PRIMARY_DARK_200": "#d36274",
+        "PRIMARY_DARK_300": "#3a2e2f",
+        "PRIMARY_DARK_360": "#dce2e9",
+        "PRIMARY_DARK_400": "#666c7f",
+        "PRIMARY_DARK_500": "#f3e4e2"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280220902360875008/image.gif?ex=66d74a20&is=66d5f8a0&hm=afb1bf15ac9897b76de6c19c60212ad2949068f68400427ae4a29b6eefd59ac3&",
+        "alpha": 0.7
+    },
+    "color": "#dc758c"
+}
