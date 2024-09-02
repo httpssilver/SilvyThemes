@@ -14,7 +14,7 @@
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#d4bfa4"
+            "#b1b1b1"
         ],
         "HEADER_SECONDARY": [
             "#433937",
@@ -55,10 +55,10 @@
             "#28201e"
         ],
         "BACKGROUND_PRIMARY": [
-            "#221a18"
+            "#b19f87"
         ],
         "BACKGROUND_SECONDARY": [
-            "#413735"
+            "#d8d8d8"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#433937",
@@ -166,9 +166,7 @@
             "#28201e"
         ],
         "CHANNEL_ICON": [
-            "#433937",
-            "#413735",
-            "#28201e"
+            "#201816"
         ],
         "CHAT_BACKGROUND": [
             "#433937",
@@ -199,6 +197,9 @@
             "#433937",
             "#413735",
             "#28201e"
+        ],
+        "CHANNEL_ICON_ACTIVE": [
+            "#2a201e"
         ]
     },
     "rawColors": {
@@ -238,14 +239,16 @@
         "GREEN_360": "#dc758c",
         "RED_400": "#877f90",
         "WHITE_500": "#5b5361",
-        "BACKGROUND_PRIMARY": "#221a18",
-        "BACKGROUND_SECONDARY": "#413735",
-        "HEADER_PRIMARY": "#d4bfa4",
-        "TEXT_NORMAL": "#ffffff"
+        "BACKGROUND_PRIMARY": "#b19f87",
+        "BACKGROUND_SECONDARY": "#d8d8d8",
+        "HEADER_PRIMARY": "#b1b1b1",
+        "TEXT_NORMAL": "#ffffff",
+        "CHANNEL_ICON": "#201816",
+        "CHANNEL_ICON_ACTIVE": "#2a201e"
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280206532990079066/image.png?ex=66d73cbe&is=66d5eb3e&hm=bb82a5b9a06a85dd3ef98ee856b791fc7a33120cd741e42c5f2de3370671b8a8&",
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280215976662794372/image.png?ex=66d7458a&is=66d5f40a&hm=06a484781337dfcb3ff9fa399f61764d5cab80a2ad38fc3de6058004c70f5c5f&",
         "alpha": 0.7
     },
     "color": "#dc758c"
