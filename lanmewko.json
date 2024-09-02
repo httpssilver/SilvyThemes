@@ -29,16 +29,16 @@
             "#000000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#fe8f4d"
+            "#fffefe"
         ],
         "INTERACTIVE_HOVER": [
-            "#ff884b"
+            "#ff864a"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffe9dc"
+            "#ff884b"
         ],
         "INTERACTIVE_MUTED": [
-            "#ffffff"
+            "#fffefe"
         ],
         "BACKGROUND_PRIMARY": [
             "#ffe8da"
@@ -83,16 +83,16 @@
             "#ffe8da"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#feffff"
+            "#ffe7db"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#ffffff"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#edc4be"
+            "#ffe7db"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ff864a"
+            "#fffffe"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#000000"
@@ -107,7 +107,7 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#ffe6d9"
+            "#f6d4ca"
         ],
         "CHANNEL_ICON": [
             "#000000"
@@ -119,59 +119,59 @@
             "#ffe8da"
         ],
         "CARD_PRIMARY_BG": [
-            "#d26859"
+            "#e27657"
         ],
         "CARD_SECONDARY_BG": [
-            "#ffe7db"
+            "#eec5bf"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#ffe8da"
         ],
         "BG_BACKDROP": [
-            "#ffe7db"
+            "#ff884b"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#ffe8da",
-        "PRIMARY_100": "#ffe6d9",
-        "PRIMARY_200": "#ff8f4c",
-        "PRIMARY_230": "#feffff",
-        "PRIMARY_300": "#ffe5d8",
-        "PRIMARY_360": "#ffffff",
-        "PRIMARY_400": "#ffe9dc",
-        "PRIMARY_600": "#e27657",
-        "PRIMARY_630": "#e27657",
-        "PRIMARY_645": "#ff864a",
-        "PRIMARY_660": "#ffffff",
-        "PRIMARY_700": "#ffffff",
-        "PRIMARY_800": "#ffe8da",
-        "PLUM_1": "#fe8e50",
+        "PRIMARY_500": "#d26c5a",
+        "PRIMARY_100": "#d26c5a",
+        "PRIMARY_200": "#feffff",
+        "PRIMARY_230": "#e27657",
+        "PRIMARY_300": "#eec7c0",
+        "PRIMARY_360": "#ffe7db",
+        "PRIMARY_400": "#ffffff",
+        "PRIMARY_600": "#eec7c0",
+        "PRIMARY_630": "#ffffff",
+        "PRIMARY_645": "#f6d4ca",
+        "PRIMARY_660": "#fe8f4d",
+        "PRIMARY_700": "#fe8f4d",
+        "PRIMARY_800": "#d26c5a",
+        "PLUM_1": "#fe8f4d",
         "PLUM_3": "#ffe8da",
-        "PLUM_6": "#fffffe",
-        "PLUM_9": "#ff864a",
-        "PLUM_10": "#ffe8da",
-        "PLUM_11": "#ff8f4c",
-        "PLUM_13": "#ff864a",
-        "PLUM_17": "#fffefe",
-        "PLUM_18": "#e27657",
-        "PLUM_19": "#ffffff",
-        "PLUM_20": "#fe8e50",
-        "PLUM_22": "#ffebe0",
-        "PLUM_24": "#ffebe0",
-        "BRAND_260": "#d16859",
-        "BRAND_360": "#ff884c",
-        "BRAND_500": "#ffe8da",
-        "BRAND_560": "#e27657",
-        "YELLOW_300": "#ffe8da",
-        "YELLOW_260": "#d26c5a",
+        "PLUM_6": "#eec7c0",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#ffe5d8",
+        "PLUM_11": "#fffffe",
+        "PLUM_13": "#ffffff",
+        "PLUM_17": "#ff864a",
+        "PLUM_18": "#eec5bf",
+        "PLUM_19": "#fffefe",
+        "PLUM_20": "#feffff",
+        "PLUM_22": "#d26859",
+        "PLUM_24": "#fffffe",
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffff",
+        "BRAND_500": "#fffefe",
+        "BRAND_560": "#ffffff",
+        "YELLOW_300": "#fffefe",
+        "YELLOW_260": "#ffebe0",
         "GREEN_600": "#e27657",
         "GREEN_360": "#ffffff",
-        "RED_400": "#ffffff",
+        "RED_400": "#ff8f4c",
         "WHITE_500": "#ffffff"
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1279935104394854502/image.png?ex=66d63ff4&is=66d4ee74&hm=1137a2c75c1754ed1c9523ffce407219f121fed421583ab79b00824a572e0ced&",
+        "url": "https://cdn.discordapp.com/attachments/1279964818203476149/1279968705782087701/image.png?ex=66d65f40&is=66d50dc0&hm=b0def4aa2a3c71e9e626de0fa485421e9060ba481d239887311aeae7355c9060&",
         "alpha": 0.7
     },
     "color": "#FFB6C1",
