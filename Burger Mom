@@ -1,5 +1,5 @@
 {
-    "name": "BurgerMom",
+    "name": "McdonaldsMom",
     "description": "Art by bluethebone",
     "authors": [
         {
@@ -9,173 +9,253 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#FFA07A",
+        "mentionLineColor": "#dc758c",
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFA07A"
+            "#ecb450"
         ],
         "HEADER_SECONDARY": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#ffffff"
         ],
         "TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "TEXT_MUTED": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "INTERACTIVE_MUTED": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#f53d31"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#e9c797"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MENTIONED": [
-            "rgba(255, 160, 122, 0.4)"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#141414"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#141414"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#141414"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#222222"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "CHANNELS_DEFAULT": [
-            "#FFA07A"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "TEXT_LINK": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "TEXT_DANGER": [
-            "#FFDAB9"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "KEYBOARD": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "CHANNEL_ICON": [
-            "#FFDAB9"
+            "#f6c377"
         ],
         "CHAT_BACKGROUND": [
-            "#141414"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#000000"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "CARD_PRIMARY_BG": [
-            "#141414"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "CARD_SECONDARY_BG": [
-            "#222222"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#141414"
+            "#433937",
+            "#413735",
+            "#28201e"
         ],
         "BG_BACKDROP": [
-            "rgba(20, 20, 20, 0.45)"
+            "#433937",
+            "#413735",
+            "#28201e"
+        ],
+        "CHANNEL_ICON_ACTIVE": [
+            "#f6b977"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#FFA07A",
-        "PRIMARY_100": "#FFA07A",
-        "PRIMARY_200": "#FFDAB9",
-        "PRIMARY_230": "#FFFFFF",
-        "PRIMARY_300": "#FFA07A",
-        "PRIMARY_360": "#FFDAB9",
-        "PRIMARY_400": "#FFA07A",
-        "PRIMARY_600": "#141414",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_645": "#141414",
-        "PRIMARY_660": "#141414",
-        "PRIMARY_700": "#141414",
-        "PRIMARY_800": "#000000",
-        "PLUM_1": "#FFFFFF",
-        "PLUM_3": "#FFA07A",
-        "PLUM_6": "#FFA07A",
-        "PLUM_9": "#FFFFFF",
-        "PLUM_10": "#A4A4A4",
-        "PLUM_11": "#000000",
-        "PLUM_13": "#FFA07A",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#000000",
-        "PLUM_19": "#000000",
-        "PLUM_20": "#000000",
-        "PLUM_22": "#000000",
-        "PLUM_24": "#000000",
-        "BRAND_260": "#FFDAB9",
-        "BRAND_360": "#FFDAB9",
-        "BRAND_500": "#FFA07A",
-        "BRAND_560": "#FFA07A",
-        "YELLOW_300": "#FFA07A",
-        "YELLOW_260": "#FFA07A",
-        "GREEN_600": "#141414",
-        "GREEN_360": "#FFA07A",
-        "RED_400": "#FF6347",
-        "WHITE_500": "#FFFFFF"
+        "PRIMARY_500": "#6d6b7a",
+        "PRIMARY_100": "#dc758c",
+        "PRIMARY_200": "#5b5361",
+        "PRIMARY_230": "#fbf4f8",
+        "PRIMARY_300": "#877f90",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#d4d4e6",
+        "PRIMARY_600": "#5b5361",
+        "PRIMARY_630": "#e1cdd9",
+        "PRIMARY_645": "#ef7e9d",
+        "PRIMARY_660": "#d49baf",
+        "PRIMARY_700": "#ffffff",
+        "PRIMARY_800": "#ffffff",
+        "PLUM_1": "#a3a6df",
+        "PLUM_3": "#dc758c",
+        "PLUM_6": "#fbf4f8",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#345ff9",
+        "PLUM_11": "#d49baf",
+        "PLUM_13": "#7e6e7e",
+        "PLUM_17": "#ffffff",
+        "PLUM_18": "#ffffff",
+        "PLUM_19": "#dc758c",
+        "PLUM_20": "#f3d1de",
+        "PLUM_22": "#7e6e7e",
+        "PLUM_24": "#a3a6df",
+        "BRAND_260": "#dc758c",
+        "BRAND_360": "#fbf4f8",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
+        "YELLOW_300": "#6d6b7a",
+        "YELLOW_260": "#ffffff",
+        "GREEN_600": "#345ff9",
+        "GREEN_360": "#dc758c",
+        "RED_400": "#877f90",
+        "WHITE_500": "#5b5361",
+        "BACKGROUND_PRIMARY": "#f53d31",
+        "BACKGROUND_SECONDARY": "#e9c797",
+        "HEADER_PRIMARY": "#ecb450",
+        "TEXT_NORMAL": "#ffffff",
+        "CHANNEL_ICON": "#f6c377",
+        "CHANNEL_ICON_ACTIVE": "#f6b977",
+        "PRIMARY_DARK": "#534626",
+        "PRIMARY_DARK_100": "#e9c699",
+        "PRIMARY_DARK_200": "#503c21",
+        "PRIMARY_DARK_300": "#504327",
+        "PRIMARY_DARK_360": "#cb4742",
+        "PRIMARY_DARK_400": "#c94d4b"
     },
     "background": {
         "blur": 0,
-        "url": "https://media.discordapp.net/attachments/1279527650410496071/1279527720094797914/BurgerMom.jpg?ex=66d4c48c&is=66d3730c&hm=be2f3be56cff219c2732bba51692c5bd02e686fc1423b71c0a4aed7dac011205&=&format=webp",
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280221504667390065/image.png?ex=66d74ab0&is=66d5f930&hm=1ba9dc395ed9b032acb3435941a3c6bc3f74e245d198aa784bc87349b0267423&",
         "alpha": 0.7
     },
-    "color": "#FFDAB9"
+    "color": "#dc758c"
 }
