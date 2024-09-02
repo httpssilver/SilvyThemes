@@ -29,16 +29,16 @@
             "#000000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ec905d"
+            "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#d18161"
+            "#e8905f"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fbe7dc"
+            "#d18161"
         ],
         "INTERACTIVE_MUTED": [
-            "#fefdfd"
+            "#feffff"
         ],
         "BACKGROUND_PRIMARY": [
             "#edcfc5"
@@ -83,16 +83,16 @@
             "#edcfc5"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#fefefe"
+            "#d6b1a9"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#ffffff"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#dfb0aa"
+            "#d6b1a9"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#e8905f"
+            "#ffffff"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#000000"
@@ -107,7 +107,7 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#efd3c8"
+            "#eed0c6"
         ],
         "CHANNEL_ICON": [
             "#000000"
@@ -119,59 +119,59 @@
             "#edcfc5"
         ],
         "CARD_PRIMARY_BG": [
-            "#bf5d53"
+            "#cf7c61"
         ],
         "CARD_SECONDARY_BG": [
-            "#d6b1a9"
+            "#dfaea9"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#edcfc5"
         ],
         "BG_BACKDROP": [
-            "#d6b1a9"
+            "#d18161"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#edcfc5",
-        "PRIMARY_100": "#efd3c8",
-        "PRIMARY_200": "#ce7c61",
-        "PRIMARY_230": "#fefefe",
-        "PRIMARY_300": "#fae6db",
-        "PRIMARY_360": "#ffffff",
-        "PRIMARY_400": "#fbe7dc",
-        "PRIMARY_600": "#cf7c61",
-        "PRIMARY_630": "#cf7c61",
-        "PRIMARY_645": "#e8905f",
-        "PRIMARY_660": "#fbf7f6",
-        "PRIMARY_700": "#ffffff",
-        "PRIMARY_800": "#edcfc5",
-        "PLUM_1": "#cf8162",
+        "PRIMARY_500": "#bd6054",
+        "PRIMARY_100": "#bd6054",
+        "PRIMARY_200": "#fefefe",
+        "PRIMARY_230": "#cf7c61",
+        "PRIMARY_300": "#deafa9",
+        "PRIMARY_360": "#d6b1a9",
+        "PRIMARY_400": "#fbf7f6",
+        "PRIMARY_600": "#deafa9",
+        "PRIMARY_630": "#ffffff",
+        "PRIMARY_645": "#eed0c6",
+        "PRIMARY_660": "#ec905d",
+        "PRIMARY_700": "#ec905d",
+        "PRIMARY_800": "#bd6054",
+        "PLUM_1": "#ec905d",
         "PLUM_3": "#edcfc5",
-        "PLUM_6": "#ffffff",
-        "PLUM_9": "#e8905f",
-        "PLUM_10": "#edcfc5",
-        "PLUM_11": "#ce7c61",
-        "PLUM_13": "#e8905f",
-        "PLUM_17": "#feffff",
-        "PLUM_18": "#cf7c61",
-        "PLUM_19": "#ffffff",
-        "PLUM_20": "#cf8162",
-        "PLUM_22": "#eed2c7",
-        "PLUM_24": "#eed2c7",
-        "BRAND_260": "#be6054",
-        "BRAND_360": "#b06a5b",
-        "BRAND_500": "#edcfc5",
-        "BRAND_560": "#cf7c61",
-        "YELLOW_300": "#edcfc5",
-        "YELLOW_260": "#bd6054",
+        "PLUM_6": "#deafa9",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#fae6db",
+        "PLUM_11": "#ffffff",
+        "PLUM_13": "#fbf7f6",
+        "PLUM_17": "#e8905f",
+        "PLUM_18": "#dfaea9",
+        "PLUM_19": "#feffff",
+        "PLUM_20": "#fefefe",
+        "PLUM_22": "#bf5d53",
+        "PLUM_24": "#ffffff",
+        "BRAND_260": "#fefdfd",
+        "BRAND_360": "#ffffff",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
+        "YELLOW_300": "#feffff",
+        "YELLOW_260": "#eed2c7",
         "GREEN_600": "#cf7c61",
-        "GREEN_360": "#ffffff",
-        "RED_400": "#ffffff",
-        "WHITE_500": "#fefdfd"
+        "GREEN_360": "#fefdfd",
+        "RED_400": "#ce7c61",
+        "WHITE_500": "#ffffff"
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1279935340865654795/image.png?ex=66d6402d&is=66d4eead&hm=a512edb78d5dad453f8f5f7c4d4a39a2d5b8ab5438e48c2327f2cd4b7878c87e&",
+        "url": "https://cdn.discordapp.com/attachments/1279964818203476149/1279968979674468454/image.png?ex=66d65f81&is=66d50e01&hm=be50788d889f228a5872892390f807b3eef200cd4dcee7fd8e5d7aecc58c33d3&",
         "alpha": 0.7
     },
     "color": "#FFB6C1",
