@@ -226,7 +226,7 @@
         "PLUM_17": "#ffffff",
         "PLUM_18": "#ffffff",
         "PLUM_19": "#dc758c",
-        "PLUM_20": "#f3d1de",
+        "PLUM_20": "#D5FFFF",
         "PLUM_22": "#7e6e7e",
         "PLUM_24": "#a3a6df",
         "BRAND_260": "#dc758c",
@@ -254,8 +254,8 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280229859519627377/image.png?ex=66d75278&is=66d600f8&hm=1e6a971f8e84b3d12ed7dcf986bafbddb5c1af804abc437c5768d8df9383c3f5&",
-        "alpha": 0.5
+        "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280229859519627377/image.png?ex=66d94cb8&is=66d7fb38&hm=08da0e24fedfa745001f371be70167e1dd4c84b557d311e7435998a1fa2a9889&",
+        "alpha": 0.7
     },
     "color": "#dc758c"
 }
